@@ -1,0 +1,1 @@
+﻿{"sem_id":544,"g_seq":91744,"is_complete":1,"app_ver":"","serial":"","mac_address":"","manufacturer":"","model":""}
