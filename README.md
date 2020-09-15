@@ -1,2 +1,2 @@
-# Azure_Databricks
+# Databricks
 Azure Databricks Tuto
