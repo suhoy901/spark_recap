@@ -9,4 +9,4 @@ Azure Databricks Tuto
 - Git : https://github.com/suchitgupta01/spark-streaming-with-debezium
 
 #### MySQL CDC with Apache Kafka and Debezium
-- Git : 
+- https://blog.clairvoyantsoft.com/mysql-cdc-with-apache-kafka-and-debezium-3d45c00762e4
